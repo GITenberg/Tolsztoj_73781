@@ -1,0 +1,41 @@
+_repo: Tolsztoj_73781
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Sajó, Aladár
+    alias: Sajo, Aladar
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '56690'
+    url: http://www.gutenberg.org/2009/agents/56690
+    wikipedia: https://hu.wikipedia.org/wiki/Saj%C3%B3_Alad%C3%A1r
+creator:
+  author:
+    agent_name: Zweig, Stefan
+    alias: Branch, Stephen
+    birthdate: 1881
+    deathdate: 1942
+    gutenberg_agent_id: '26291'
+    url: http://www.gutenberg.org/2009/agents/26291
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Stefan_Zweig
+    - https://de.wikipedia.org/wiki/Stefan_Zweig
+description: ''
+gutenberg_issued: '2024-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73781'
+language: hu
+pgterms:marc905: 20240604112929zweig
+pgterms:marc906: '1928'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Library
+  of the Hungarian Academy of Sciences
+publication_note: '  $aBudapest :$bFranklin-Társulat, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tolsztoj
+url: http://www.gutenberg.org/ebooks/73781
