@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '56690'
     url: http://www.gutenberg.org/2009/agents/56690
     wikipedia: https://hu.wikipedia.org/wiki/Saj%C3%B3_Alad%C3%A1r
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Zweig, Stefan
@@ -21,6 +24,8 @@ creator:
     - https://en.wikipedia.org/wiki/Stefan_Zweig
     - https://de.wikipedia.org/wiki/Stefan_Zweig
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73781#Tolsztoj
 gutenberg_issued: '2024-06-06'
 gutenberg_type: Text
 identifiers:
